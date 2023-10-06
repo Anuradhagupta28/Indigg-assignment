@@ -29,11 +29,11 @@ h1 {
     margin: 20px 0;
     font-size: 20px;
 }
-#answers{
+/* #answers{
     display: flex;
     flex-direction: column;
     align-items: start;
-}
+} */
 
 #answers label {
     display: block;
