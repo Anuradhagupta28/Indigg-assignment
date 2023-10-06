@@ -19,7 +19,7 @@ const questions = [
     },
     {
         question: "4)Which gas do plants absorb from the atmosphere?",
-        answers: ["O2", "CO2", "Nitrogen", "Hydrogen"],
+        answers: ["Oxygen", "CO2", "Nitrogen", "Hydrogen"],
         correct: 1,
     },
     {
