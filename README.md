@@ -1,4 +1,4 @@
-# Interactive Quiz Project
+# Indi.gg Quiz Asssignment
 
 This is an interactive quiz web application built with HTML, CSS, and JavaScript. The project includes a set of multiple-choice questions, provides feedback on user answers, keeps track of the user's score, and allows navigation through questions. Below, you'll find information on how the project is structured and how to use it.
 
