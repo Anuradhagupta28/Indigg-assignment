@@ -12,6 +12,7 @@ body {
 
 .quiz-container {
     max-width: 400px;
+    max-height: 500px;
     margin: 60px auto;
     padding: 20px;
     background-color: #fff;
@@ -138,10 +139,10 @@ button:hover {
     height: 100%;
   }
 
-  .quiz-container:hover {
+  /* .quiz-container:hover {
     transform: rotateY(10deg) rotateX(10deg) scale(1.05);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-  }
+  } */
   
   .quiz-container:before {
     content: "";
