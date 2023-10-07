@@ -9,7 +9,7 @@ body {
 
 .quiz-container {
     width: 400px;
-    height: 600px;
+    height: 550px;
     margin: 60px auto;
     padding: 20px;
     /* background-color: #fff; */
@@ -31,12 +31,12 @@ body {
 
 h1 {
     color: #333;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .question {
     margin: 20px 0;
-    font-size: 23px;
+    /* font-size: 23px; */
 }
 img{
   width: 50px;
@@ -45,7 +45,7 @@ img{
 .card-content>p{
   color:rgb(250, 250, 154);
   margin-top: -20px;
-  font-size: 20px;
+  /* font-size: 20px; */
 }
 
 #answers label {
